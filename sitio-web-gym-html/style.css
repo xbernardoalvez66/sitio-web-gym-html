@@ -407,11 +407,11 @@ background: var(--primary-color);
 
 .contact-sec form{
 	width: 50%;
-	padding: 1rem;
+	padding: .1rem;
 }
 
 .contact-sec form .btn{
-margin-top: 1rem;
+margin-top: .1rem;
 padding: .8rem 2rem;
 }
 
@@ -423,7 +423,7 @@ padding: .8rem 2rem;
 
 .contact-sec textarea{
 	padding: .5rem .5rem;
-	height: 7rem;
+	height: .7rem;
 	outline: none;
 	border: 1px solid #fff;
 	color: var(--primary-color);
@@ -434,7 +434,7 @@ padding: .8rem 2rem;
 
 footer {
 	border-top: 2px solid var(--primary-color);
-	margin-top: 3rem;
+	margin-top: .3rem;
 }
 
 footer .getTouch{
